@@ -17,5 +17,8 @@
     "nodemon": "^2.0.15",
     "shortid": "^2.2.16",
     "valid-url": "^1.0.9"
+  },
+  "devDependencies": {
+    "jest": "^27.5.1"
   }
 }
